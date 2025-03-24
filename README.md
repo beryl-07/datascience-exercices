@@ -2,7 +2,7 @@
 
 ### A- Effectuez chacune des tâches suivantes en utilisant python
 1. Chargez un fichier audio et affichez sa durée avec librosa.
-Chargez une vidéo et affichez ses FPS avec OpenCV. 2.
+Chargez une vidéo et affichez ses FPS avec OpenCV.
 3. Lisez un fichier Parquet avec pandas et affichez son contenu.
 4. Lisez un fichier Avro et convertissez-le en DataFrame.
 5. Lisez un fichier YAML et affichez ses clés principales.
