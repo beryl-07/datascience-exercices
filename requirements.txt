@@ -1,0 +1,8 @@
+pandas
+librosa
+opencv-python
+fastparquet
+fastavro
+zipfile
+yaml
+pypdf
